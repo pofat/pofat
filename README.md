@@ -1,8 +1,18 @@
 ### Bello 👋
 
-I'm Pofat, an iOS developer and podcaster. Passionate about mobile computing, software design patterns and architecture. Writing clean and maintainable code.
+I'm Pofat.
 
-![README Stats](https://github-readme-stats.vercel.app/api?username=pofat&show_icons=true&hide_title=true&count_private=true)
-
+- Focus on iOS app performancee and architecture
+- Love Swift
+- Was an amateur triathlete
 
 📫 Contact me with [Twitter](https://twitter.com/@PofatTseng) or [email](mailto:tjazzter@gmail.com). 
+
+### Projects
+
+- 🇹🇼 [weak self podcast](https://weakself.dev) - 集結弱弱的我，也可以組成強大的社群。三個在 iOS 開發圈打滾的台灣工程師，專為 Apple & iOS 開發者而製作的 Podcast
+
+
+
+
+
