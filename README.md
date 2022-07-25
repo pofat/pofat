@@ -14,7 +14,7 @@ I'm Pofat.
 - 🎙️ [weak self podcast](https://weakself.dev) - 集結弱弱的我，也可以組成強大的社群。三個在 iOS 開發圈打滾的台灣工程師，專為 Apple & iOS 開發者而製作的 Podcast
 - 🎙️ [Pofat kóng code](https://kongcode.tw) - 以全台語分享軟體工程以及其思想如何影響世界
 
-## Donnation
+## Donation
 
 如果我經營的專案或任何產出有幫助到你，請考慮捐款支持我，讓我能做得更好，謝謝🙏
 
